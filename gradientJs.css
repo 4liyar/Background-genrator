@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(to right, red, yellow);
+  color: rgb(40, 32, 32);
+  text-align: center;
+  /* text-transform: uppercase; */
+  /* letter-spacing: 0.9em; */
+  /* font-size: 3rem; */
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: gray;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  font-size: 5rem;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(180, 193, 157);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  /* font-size: 3rem; */
+}
+h3 {
+  color: rgb(191, 182, 158);
+}
